@@ -1,10 +1,9 @@
 
-# Kinky Solutions POI ColdFusion Custom Tag
+# POI Coldfusion Custom Tag (Forked from Ben Nadel's [POI Utility](https://github.com/bennadel/POIUtility.cfc))
 
-by [Ben Nadel][1]
+Extensively extended for additional features and memory consumption through [JavaLoader](https://github.com/markmandel/JavaLoader).
 
-The POIUtility.cfc is a ColdFusion component that helps you read Microsoft Excel files into ColdFusion 
-queries as well as convert ColdFusion queries into multi-sheet Microsoft Excel files.
+Note: Documentation needs to be updated. Will be done when I have time, until the time being you'll just have to look through the code for the new features.
 
 ## Features
 
